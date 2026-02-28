@@ -52,6 +52,7 @@ Soluciona la necesidad de tener una presencia digital profesional centralizada q
  │     └── perfil.jpg
  └── README.md
 --- Documentación del proyecto---
+```
 
 ---
 
@@ -70,9 +71,31 @@ Soluciona la necesidad de tener una presencia digital profesional centralizada q
 - Microinteracciones
 - Animaciones suaves en hover (botones, cards, navegación).
 
+---
+
 ## 📸 6. Capturas de pantalla
 
 ![Inicio](perfil.jpg)
 ![Inicio](images/inicio.jpg)
 ![Portafolio](images/portafolio.jpg)
 ![Contacto](images/contacto.jpg)
+
+---
+
+## ▶️ 7. Cómo ejecutar el proyecto
+
+- Descargar o clonar el repositorio desde github: https://github.com/smax79/mi-html-css
+- Abrir la carpeta en Visual Studio Code
+- Abrir el archivo index.html en el navegador o usando la opción "Go Live"
+
+---
+
+## 🚧 8. Mejoras futuras
+
+- Actualizar e incluir links dinámicos a portafolio de servicios.
+- Implementar animaciones más avanzadas (scroll reveal real sin JS o con JS en versión futura)
+- Integrar backend para formulario de contacto
+- Optimización SEO avanzada
+- Versión dark/light mode más dinámica
+- Integración con CMS o dashboard editable
+- Internacionalización (multi-idioma)
