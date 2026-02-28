@@ -75,10 +75,10 @@ Soluciona la necesidad de tener una presencia digital profesional centralizada q
 
 ## 📸 6. Capturas de pantalla
 
-![Inicio](perfil.jpg)
-![Inicio](images/inicio.jpg)
-![Portafolio](images/portafolio.jpg)
-![Contacto](images/contacto.jpg)
+![Perfil](images/perfil.jpg)
+![Inicio](images/inicio.JPG)
+![Portafolio](images/Experiencia.JPG)
+![Contacto](images/Contacto.JPG)
 
 ---
 
